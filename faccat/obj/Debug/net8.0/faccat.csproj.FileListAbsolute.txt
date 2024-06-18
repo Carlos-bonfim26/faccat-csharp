@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\faccat\faccat\bin\Debug\net8.0\faccat.exe
+C:\Users\Aluno\source\repos\faccat\faccat\bin\Debug\net8.0\faccat.deps.json
+C:\Users\Aluno\source\repos\faccat\faccat\bin\Debug\net8.0\faccat.runtimeconfig.json
+C:\Users\Aluno\source\repos\faccat\faccat\bin\Debug\net8.0\faccat.dll
+C:\Users\Aluno\source\repos\faccat\faccat\bin\Debug\net8.0\faccat.pdb
+C:\Users\Aluno\source\repos\faccat\faccat\obj\Debug\net8.0\faccat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\faccat\faccat\obj\Debug\net8.0\faccat.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\faccat\faccat\obj\Debug\net8.0\faccat.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\faccat\faccat\obj\Debug\net8.0\faccat.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\faccat\faccat\obj\Debug\net8.0\faccat.dll
+C:\Users\Aluno\source\repos\faccat\faccat\obj\Debug\net8.0\refint\faccat.dll
+C:\Users\Aluno\source\repos\faccat\faccat\obj\Debug\net8.0\faccat.pdb
+C:\Users\Aluno\source\repos\faccat\faccat\obj\Debug\net8.0\faccat.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\faccat\faccat\obj\Debug\net8.0\ref\faccat.dll
